@@ -1,3 +1,10 @@
 #忽略Mac平台上文件夹的隐藏文件
-
 .DS_Store
+
+
+#
+
+/data/00_data.txt
+
+/data/**/info.txt
+
